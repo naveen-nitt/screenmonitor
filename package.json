@@ -1,0 +1,14 @@
+{
+  "name": "screenmonitor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local AI Screen Assistant MVP",
+  "scripts": {
+    "dev": "npm --prefix app run dev",
+    "build": "npm --prefix app run build",
+    "start": "npm --prefix app run start",
+    "server": "npm --prefix server run dev",
+    "electron": "npm --prefix electron run dev",
+    "lint": "npm --prefix app run lint"
+  }
+}

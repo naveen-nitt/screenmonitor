@@ -1,0 +1,12 @@
+{
+  "name": "screen-assistant-electron",
+  "version": "1.0.0",
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "dependencies": {
+    "electron": "31.2.0"
+  }
+}
